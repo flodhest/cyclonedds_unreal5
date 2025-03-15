@@ -13,3 +13,4 @@ Built with latest cyclonedds 0.11.0 and topic discovery on which enables x-types
 
 /* Whether or not support for topic discovery is included */
 #define DDS_HAS_TOPIC_DISCOVERY 1
+"# CycloneDDS" 
